@@ -1,0 +1,9 @@
+#Vizio ACR data domains..
+0.0.0.0 control2.tvinteractive.tv
+0.0.0.0 control-zoo-default.tvinteractive.tv
+0.0.0.0 control-zoo-dtsprod.tvinteractive.tv 
+0.0.0.0 collectorb.tvsquared.com
+0.0.0.0 www-staging.tvsquared.com
+0.0.0.0 control.tvinteractive.tv
+0.0.0.0 mcp-production.tvinteractive.tv
+0.0.0.0 api.vizio.com
